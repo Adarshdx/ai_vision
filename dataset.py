@@ -78,14 +78,3 @@ def load_cifar10_data():
     print(f"Test samples: {len(test_dataset)}")
     
     return train_loader, val_loader, test_loader
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
