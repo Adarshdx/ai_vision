@@ -91,4 +91,3 @@ def load_cifar10_data():
 .
 .
 .
-.
