@@ -28,3 +28,5 @@ cd cifar10_classifier
 
 # Install dependencies
 pip install -r requirements.txt
+.
+.
