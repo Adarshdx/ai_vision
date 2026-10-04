@@ -79,3 +79,8 @@ def create_model():
     print(f"Device: {Config.DEVICE}")
     
     return model
+.
+.
+.
+.
+.
