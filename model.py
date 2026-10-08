@@ -82,5 +82,3 @@ def create_model():
 .
 .
 .
-.
-.
