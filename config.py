@@ -37,6 +37,3 @@ class Config:
     
     # Random seed for reproducibility
     SEED = 42
-.
-.
-.
