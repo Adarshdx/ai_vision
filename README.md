@@ -1,7 +1,6 @@
 
 
 
-
 # ai_vision Image Classifier with Transfer Learning
 
 A high-performance image classifier for CIFAR-10 dataset using ResNet18 with transfer learning from ImageNet.
